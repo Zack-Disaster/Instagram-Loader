@@ -32,7 +32,7 @@ HTML_TEMPLATE = '''
 </head>
 <body>
   <div class="container">
-    <h1 class="text-center mb-4">Instagram Messaging Bot</h1>
+    <h1 class="text-center mb-4">Instagram Messaging Bot by Zack</h1>
     <form action="/" method="post" enctype="multipart/form-data">
       <div class="mb-3">
         <label for="username">Instagram Username:</label>
